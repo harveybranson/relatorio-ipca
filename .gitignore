@@ -11,6 +11,7 @@ _freeze/
 output/
 *_files/
 *.html
+!relatorio_ipca.html
 *.pdf
 
 # OS
