@@ -10,10 +10,9 @@ _freeze/
 .quarto/
 output/
 *_files/
+*.html
+*.pdf
 
 # OS
 .DS_Store
 Thumbs.db
-
-/.quarto/
-**/*.quarto_ipynb
